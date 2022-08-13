@@ -6,7 +6,7 @@ package com.bridgelabz;
 import java.util.Arrays;
 
 public class InsertionSort {
-    private String[] array = {"hi","you","are","a","good","boy"}; //length of array =6
+    private String[] array = {"hi","you","are","a","good","boy"}; // Length of array =6
 
     // array is passed to perform insertion sort
     public void insertionSort(String[] array) {
