@@ -7,7 +7,6 @@ import java.util.Arrays;
 
 public class InsertionSort {
     private String[] array = {"hi","you","are","a","good","boy"}; // Length of array =6
-
     // array is passed to perform insertion sort
     public void insertionSort(String[] array) {
         for (int i = 0; i < array.length-1; i++) {
