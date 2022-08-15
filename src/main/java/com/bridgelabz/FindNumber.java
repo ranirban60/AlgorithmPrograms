@@ -1,5 +1,7 @@
+/*
+Program to find a Guessed Number
+ */
 package com.bridgelabz;
-
 import java.util.Scanner;
 
 public class FindNumber {
